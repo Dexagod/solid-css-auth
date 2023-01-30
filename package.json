@@ -1,0 +1,14 @@
+{
+  "name": "solid-css-auth",
+  "version": "0.1.0",
+  "description": "Util for client credentials tokens for Solid pods hosted on Community Solid Server",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inrupt/solid-client-authn-core": "^1.13.0",
+    "commander": "^10.0.0",
+    "inquirer": "^8.2.5",
+    "n3": "^1.16.3"
+  }
+}
